@@ -1,0 +1,9 @@
+.navbar a {
+	padding: 1px 5px;
+	color: white;
+	text-decoration: none;
+}
+
+.nav button + button {
+	margin-left: 10px;
+}
